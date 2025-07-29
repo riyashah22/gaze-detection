@@ -1,0 +1,9 @@
+device: "CPU"
+horizontal_threshold: 0.27
+vertical_threshold_up: 0.50
+vertical_threshold_down: 0.10
+margin: 0.10
+arrow_scale: 100
+num_chunks: 8
+video_path: "riya1.mp4"
+output_csv: "gaze_log.csv"
